@@ -1,0 +1,153 @@
+.amber {
+  background-color: #f59e0b;
+  height: 38px;
+  width: 38px;
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 16px;
+}
+
+.blue {
+  background-color: #0b69ff;
+  height: 38px;
+  width: 38px;
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 16px;
+}
+
+.orange {
+  background-color: #f97316;
+  height: 38px;
+  width: 38px;
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 16px;
+}
+
+.emerald {
+  background-color: #10b981;
+  height: 38px;
+  width: 38px;
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 16px;
+}
+
+.teal {
+  background-color: #14b8a6;
+  height: 38px;
+  width: 38px;
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 16px;
+}
+
+.red {
+  background-color: #b91c1c;
+  height: 38px;
+  width: 38px;
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 16px;
+}
+
+.light-blue {
+  background-color: #0ea5e9;
+  height: 38px;
+  width: 38px;
+  border-radius: 19px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-right: 16px;
+}
+
+/* Write your CSS here */
+
+.list-item {
+  list-style-type: none;
+  margin: 0px;
+}
+
+.pic-name {
+  color: #ffffff;
+  font-size: 14px;
+}
+
+.container {
+  display: flex;
+  flex-direction: row;
+}
+
+.commenter-name {
+  color: #334155;
+  font-size: 20px;
+  font-weight: 600;
+  margin-top: 6px;
+  margin-right: 30px;
+}
+.commented-time {
+  color: #94a3b8;
+  font-size: 14px;
+  font-weight: 300;
+  margin-top: 11px;
+}
+
+.comment-text {
+  color: #64748b;
+  font-size: 18px;
+  font-weight: 500;
+  margin-top: 10px;
+  margin-left: 50px;
+}
+
+.like-and-delete-button-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.btn {
+  border: none;
+  background-color: transparent;
+  color: #94a3b8;
+  font-size: 17px;
+  font-weight: 500;
+  cursor: pointer;
+  outline: none;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.like-img {
+  height: 22px;
+  width: 22px;
+  margin-right: 10px;
+}
+
+.delete-img {
+  height: 22px;
+  width: 22px;
+  color: #334155;
+}
